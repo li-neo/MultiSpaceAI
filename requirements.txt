@@ -1,0 +1,11 @@
+torch>=1.10.0
+transformers>=4.21.0
+numpy>=1.20.0
+pillow>=8.3.0
+librosa>=0.9.0
+soundfile>=0.10.0
+requests>=2.25.0
+tqdm>=4.62.0
+sentencepiece>=0.1.96
+huggingface-hub>=0.9.0
+tokenizers>=0.12.0 
